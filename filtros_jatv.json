@@ -1,0 +1,88 @@
+{
+  "servidores": {
+    "servidor1": {
+      "canais": [
+        "canais",
+        "tv",
+        "ao vivo",
+        "live",
+        "hd",
+        "esporte",
+        "news",
+        "infantil"
+      ],
+      "filmes": [
+        "filmes",
+        "filme",
+        "movie",
+        "cinema",
+        "dub",
+        "legendado"
+      ],
+      "series": [
+        "series",
+        "série",
+        "temporada",
+        "episodio",
+        "season"
+      ]
+    },
+    "servidor2": {
+      "canais": [
+        "canais",
+        "tv",
+        "ao vivo"
+      ],
+      "filmes": [
+        "filmes",
+        "movie"
+      ],
+      "series": [
+        "series",
+        "season"
+      ]
+    },
+    "servidor3": {
+      "canais": [
+        "canais",
+        "tv"
+      ],
+      "filmes": [
+        "filmes",
+        "cinema"
+      ],
+      "series": [
+        "series",
+        "temporada"
+      ]
+    },
+    "servidor4": {
+      "canais": [
+        "canais",
+        "live"
+      ],
+      "filmes": [
+        "filmes",
+        "legendado"
+      ],
+      "series": [
+        "series",
+        "episodio"
+      ]
+    },
+    "servidor5": {
+      "canais": [
+        "canais",
+        "hd"
+      ],
+      "filmes": [
+        "filmes",
+        "dub"
+      ],
+      "series": [
+        "series",
+        "série"
+      ]
+    }
+  }
+}
